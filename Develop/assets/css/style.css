@@ -196,6 +196,7 @@ p {
 }
 /* Aside End */
 
+/* Footer Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -206,3 +207,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer End */
