@@ -7,7 +7,8 @@ I added alt attributes to make the website accessible for users with vision impa
 I rearranged the headings to fall into order.
 I added the title "Horiseon" to show off the name of the company more.
 
-Screen of deployed application:
+Screen of deployed application:![2022-02-12 (2)](https://user-images.githubusercontent.com/98117743/153698230-ffeee1cb-986a-4e62-9f7d-515d32dae400.png)
+
 
 Link to deployed application:
 https://trevormangahas.github.io/Challenge1-Horiseon/
